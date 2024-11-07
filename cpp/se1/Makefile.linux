@@ -1,0 +1,6 @@
+# Project: sli (Simple Language Interpreter)
+# Makefile created by Ara Bedrossian
+
+sli: 
+	gcc -o sli main.cc programbuffer.cc variables.cc
+	

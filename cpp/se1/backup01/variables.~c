@@ -1,0 +1,37 @@
+/*
+Implements the Variables Array with their name(key) and Value
+Variable type class holds the variable name values and support some basic operations
+*/
+
+#include "variables.h"
+
+//Constructor
+VariableType::VariableType()
+{
+}
+
+//Destructor
+VariableType::~VariableType()
+{
+}
+
+//Set the initial value to 0
+void VariableType::Set(char aVarName, int aInitValue)
+{
+     iValue = aInitValue;
+}
+                        
+//return the current value 
+int VariableType::Get(char aVarName)
+{
+    return iValue;
+}
+
+//add the current argument value to variables value 
+//(could be negative or positive)
+int Inc(char aVarName, int aValue)
+{
+    iValue += aValue;
+    return iValue;
+}
+

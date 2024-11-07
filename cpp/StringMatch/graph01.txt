@@ -1,0 +1,867 @@
+Number of possible generated strings: 17440
+Iteration: 0 d=(29750) maximum string set size: 86
+
+Set passed.
+The generate set:
+Number of strings: 86
+A0 -- A0A1 -- A0A1A2 -- A0A1A2A3 -- A0A1A2A3C4 -- A0A1A2A3C4C5 -- A0A1A2A3C4C5C6 -- A0A1A2A3C4C5C6C7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1A2 [label="A" shape=point color=red]
+A0A1A2A3 [label="A" shape=point color=red]
+A0A1A2A3C4 [label="C" shape=point color=blue]
+A0A1A2A3C4C5 [label="C" shape=point color=blue]
+A0A1A2A3C4C5C6 [label="C" shape=point color=blue]
+A0A1A2A3C4C5C6C7 [label="C" shape=point color=blue]
+
+A0 -- A0A1 -- A0A1A2 -- A0A1A2A3 -- A0A1A2A3G4 -- A0A1A2A3G4G5 -- A0A1A2A3G4G5G6 -- A0A1A2A3G4G5G6G7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1A2 [label="A" shape=point color=red]
+A0A1A2A3 [label="A" shape=point color=red]
+A0A1A2A3G4 [label="G" shape=point color=green]
+A0A1A2A3G4G5 [label="G" shape=point color=green]
+A0A1A2A3G4G5G6 [label="G" shape=point color=green]
+A0A1A2A3G4G5G6G7 [label="G" shape=point color=green]
+
+A0 -- A0A1 -- A0A1T2 -- A0A1T2T3 -- A0A1T2T3C4 -- A0A1T2T3C4C5 -- A0A1T2T3C4C5G6 -- A0A1T2T3C4C5G6G7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1T2 [label="T" shape=point color=yellow]
+A0A1T2T3 [label="T" shape=point color=yellow]
+A0A1T2T3C4 [label="C" shape=point color=blue]
+A0A1T2T3C4C5 [label="C" shape=point color=blue]
+A0A1T2T3C4C5G6 [label="G" shape=point color=green]
+A0A1T2T3C4C5G6G7 [label="G" shape=point color=green]
+
+A0 -- A0A1 -- A0A1T2 -- A0A1T2T3 -- A0A1T2T3G4 -- A0A1T2T3G4G5 -- A0A1T2T3G4G5C6 -- A0A1T2T3G4G5C6C7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1T2 [label="T" shape=point color=yellow]
+A0A1T2T3 [label="T" shape=point color=yellow]
+A0A1T2T3G4 [label="G" shape=point color=green]
+A0A1T2T3G4G5 [label="G" shape=point color=green]
+A0A1T2T3G4G5C6 [label="C" shape=point color=blue]
+A0A1T2T3G4G5C6C7 [label="C" shape=point color=blue]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2C3 -- A0A1C2C3A4 -- A0A1C2C3A4A5 -- A0A1C2C3A4A5C6 -- A0A1C2C3A4A5C6C7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2C3 [label="C" shape=point color=blue]
+A0A1C2C3A4 [label="A" shape=point color=red]
+A0A1C2C3A4A5 [label="A" shape=point color=red]
+A0A1C2C3A4A5C6 [label="C" shape=point color=blue]
+A0A1C2C3A4A5C6C7 [label="C" shape=point color=blue]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2C3 -- A0A1C2C3T4 -- A0A1C2C3T4T5 -- A0A1C2C3T4T5G6 -- A0A1C2C3T4T5G6G7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2C3 [label="C" shape=point color=blue]
+A0A1C2C3T4 [label="T" shape=point color=yellow]
+A0A1C2C3T4T5 [label="T" shape=point color=yellow]
+A0A1C2C3T4T5G6 [label="G" shape=point color=green]
+A0A1C2C3T4T5G6G7 [label="G" shape=point color=green]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2C3 -- A0A1C2C3C4 -- A0A1C2C3C4C5 -- A0A1C2C3C4C5A6 -- A0A1C2C3C4C5A6A7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2C3 [label="C" shape=point color=blue]
+A0A1C2C3C4 [label="C" shape=point color=blue]
+A0A1C2C3C4C5 [label="C" shape=point color=blue]
+A0A1C2C3C4C5A6 [label="A" shape=point color=red]
+A0A1C2C3C4C5A6A7 [label="A" shape=point color=red]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2G3 -- A0A1C2G3A4 -- A0A1C2G3A4C5 -- A0A1C2G3A4C5T6 -- A0A1C2G3A4C5T6G7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2G3 [label="G" shape=point color=green]
+A0A1C2G3A4 [label="A" shape=point color=red]
+A0A1C2G3A4C5 [label="C" shape=point color=blue]
+A0A1C2G3A4C5T6 [label="T" shape=point color=yellow]
+A0A1C2G3A4C5T6G7 [label="G" shape=point color=green]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2G3 -- A0A1C2G3T4 -- A0A1C2G3T4G5 -- A0A1C2G3T4G5A6 -- A0A1C2G3T4G5A6C7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2G3 [label="G" shape=point color=green]
+A0A1C2G3T4 [label="T" shape=point color=yellow]
+A0A1C2G3T4G5 [label="G" shape=point color=green]
+A0A1C2G3T4G5A6 [label="A" shape=point color=red]
+A0A1C2G3T4G5A6C7 [label="C" shape=point color=blue]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2G3 -- A0A1C2G3C4 -- A0A1C2G3C4A5 -- A0A1C2G3C4A5G6 -- A0A1C2G3C4A5G6T7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2G3 [label="G" shape=point color=green]
+A0A1C2G3C4 [label="C" shape=point color=blue]
+A0A1C2G3C4A5 [label="A" shape=point color=red]
+A0A1C2G3C4A5G6 [label="G" shape=point color=green]
+A0A1C2G3C4A5G6T7 [label="T" shape=point color=yellow]
+
+A0 -- A0A1 -- A0A1C2 -- A0A1C2G3 -- A0A1C2G3G4 -- A0A1C2G3G4T5 -- A0A1C2G3G4T5C6 -- A0A1C2G3G4T5C6A7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1C2 [label="C" shape=point color=blue]
+A0A1C2G3 [label="G" shape=point color=green]
+A0A1C2G3G4 [label="G" shape=point color=green]
+A0A1C2G3G4T5 [label="T" shape=point color=yellow]
+A0A1C2G3G4T5C6 [label="C" shape=point color=blue]
+A0A1C2G3G4T5C6A7 [label="A" shape=point color=red]
+
+A0 -- A0A1 -- A0A1G2 -- A0A1G2C3 -- A0A1G2C3A4 -- A0A1G2C3A4C5 -- A0A1G2C3A4C5G6 -- A0A1G2C3A4C5G6T7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1G2 [label="G" shape=point color=green]
+A0A1G2C3 [label="C" shape=point color=blue]
+A0A1G2C3A4 [label="A" shape=point color=red]
+A0A1G2C3A4C5 [label="C" shape=point color=blue]
+A0A1G2C3A4C5G6 [label="G" shape=point color=green]
+A0A1G2C3A4C5G6T7 [label="T" shape=point color=yellow]
+
+A0 -- A0A1 -- A0A1G2 -- A0A1G2C3 -- A0A1G2C3T4 -- A0A1G2C3T4G5 -- A0A1G2C3T4G5C6 -- A0A1G2C3T4G5C6A7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1G2 [label="G" shape=point color=green]
+A0A1G2C3 [label="C" shape=point color=blue]
+A0A1G2C3T4 [label="T" shape=point color=yellow]
+A0A1G2C3T4G5 [label="G" shape=point color=green]
+A0A1G2C3T4G5C6 [label="C" shape=point color=blue]
+A0A1G2C3T4G5C6A7 [label="A" shape=point color=red]
+
+A0 -- A0A1 -- A0A1G2 -- A0A1G2C3 -- A0A1G2C3C4 -- A0A1G2C3C4A5 -- A0A1G2C3C4A5T6 -- A0A1G2C3C4A5T6G7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1G2 [label="G" shape=point color=green]
+A0A1G2C3 [label="C" shape=point color=blue]
+A0A1G2C3C4 [label="C" shape=point color=blue]
+A0A1G2C3C4A5 [label="A" shape=point color=red]
+A0A1G2C3C4A5T6 [label="T" shape=point color=yellow]
+A0A1G2C3C4A5T6G7 [label="G" shape=point color=green]
+
+A0 -- A0A1 -- A0A1G2 -- A0A1G2C3 -- A0A1G2C3G4 -- A0A1G2C3G4T5 -- A0A1G2C3G4T5A6 -- A0A1G2C3G4T5A6C7
+A0 [label="A" shape=point color=red]
+A0A1 [label="A" shape=point color=red]
+A0A1G2 [label="G" shape=point color=green]
+A0A1G2C3 [label="C" shape=point color=blue]
+A0A1G2C3G4 [label="G" shape=point color=green]
+A0A1G2C3G4T5 [label="T" shape=point color=yellow]
+A0A1G2C3G4T5A6 [label="A" shape=point color=red]
+A0A1G2C3G4T5A6C7 [label="C" shape=point color=blue]
+
+A0 -- A0T1 -- A0T1A2 -- A0T1A2T3 -- A0T1A2T3C4 -- A0T1A2T3C4G5 -- A0T1A2T3C4G5C6 -- A0T1A2T3C4G5C6G7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1A2 [label="A" shape=point color=red]
+A0T1A2T3 [label="T" shape=point color=yellow]
+A0T1A2T3C4 [label="C" shape=point color=blue]
+A0T1A2T3C4G5 [label="G" shape=point color=green]
+A0T1A2T3C4G5C6 [label="C" shape=point color=blue]
+A0T1A2T3C4G5C6G7 [label="G" shape=point color=green]
+
+A0 -- A0T1 -- A0T1A2 -- A0T1A2T3 -- A0T1A2T3G4 -- A0T1A2T3G4C5 -- A0T1A2T3G4C5G6 -- A0T1A2T3G4C5G6C7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1A2 [label="A" shape=point color=red]
+A0T1A2T3 [label="T" shape=point color=yellow]
+A0T1A2T3G4 [label="G" shape=point color=green]
+A0T1A2T3G4C5 [label="C" shape=point color=blue]
+A0T1A2T3G4C5G6 [label="G" shape=point color=green]
+A0T1A2T3G4C5G6C7 [label="C" shape=point color=blue]
+
+A0 -- A0T1 -- A0T1T2 -- A0T1T2A3 -- A0T1T2A3C4 -- A0T1T2A3C4G5 -- A0T1T2A3C4G5G6 -- A0T1T2A3C4G5G6C7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1T2 [label="T" shape=point color=yellow]
+A0T1T2A3 [label="A" shape=point color=red]
+A0T1T2A3C4 [label="C" shape=point color=blue]
+A0T1T2A3C4G5 [label="G" shape=point color=green]
+A0T1T2A3C4G5G6 [label="G" shape=point color=green]
+A0T1T2A3C4G5G6C7 [label="C" shape=point color=blue]
+
+A0 -- A0T1 -- A0T1T2 -- A0T1T2A3 -- A0T1T2A3G4 -- A0T1T2A3G4C5 -- A0T1T2A3G4C5C6 -- A0T1T2A3G4C5C6G7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1T2 [label="T" shape=point color=yellow]
+A0T1T2A3 [label="A" shape=point color=red]
+A0T1T2A3G4 [label="G" shape=point color=green]
+A0T1T2A3G4C5 [label="C" shape=point color=blue]
+A0T1T2A3G4C5C6 [label="C" shape=point color=blue]
+A0T1T2A3G4C5C6G7 [label="G" shape=point color=green]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2C3 -- A0T1C2C3A4 -- A0T1C2C3A4G5 -- A0T1C2C3A4G5A6 -- A0T1C2C3A4G5A6G7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2C3 [label="C" shape=point color=blue]
+A0T1C2C3A4 [label="A" shape=point color=red]
+A0T1C2C3A4G5 [label="G" shape=point color=green]
+A0T1C2C3A4G5A6 [label="A" shape=point color=red]
+A0T1C2C3A4G5A6G7 [label="G" shape=point color=green]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2C3 -- A0T1C2C3T4 -- A0T1C2C3T4C5 -- A0T1C2C3T4C5T6 -- A0T1C2C3T4C5T6C7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2C3 [label="C" shape=point color=blue]
+A0T1C2C3T4 [label="T" shape=point color=yellow]
+A0T1C2C3T4C5 [label="C" shape=point color=blue]
+A0T1C2C3T4C5T6 [label="T" shape=point color=yellow]
+A0T1C2C3T4C5T6C7 [label="C" shape=point color=blue]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2C3 -- A0T1C2C3C4 -- A0T1C2C3C4T5 -- A0T1C2C3C4T5C6 -- A0T1C2C3C4T5C6T7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2C3 [label="C" shape=point color=blue]
+A0T1C2C3C4 [label="C" shape=point color=blue]
+A0T1C2C3C4T5 [label="T" shape=point color=yellow]
+A0T1C2C3C4T5C6 [label="C" shape=point color=blue]
+A0T1C2C3C4T5C6T7 [label="T" shape=point color=yellow]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2C3 -- A0T1C2C3G4 -- A0T1C2C3G4A5 -- A0T1C2C3G4A5G6 -- A0T1C2C3G4A5G6A7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2C3 [label="C" shape=point color=blue]
+A0T1C2C3G4 [label="G" shape=point color=green]
+A0T1C2C3G4A5 [label="A" shape=point color=red]
+A0T1C2C3G4A5G6 [label="G" shape=point color=green]
+A0T1C2C3G4A5G6A7 [label="A" shape=point color=red]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2G3 -- A0T1C2G3A4 -- A0T1C2G3A4T5 -- A0T1C2G3A4T5G6 -- A0T1C2G3A4T5G6C7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2G3 [label="G" shape=point color=green]
+A0T1C2G3A4 [label="A" shape=point color=red]
+A0T1C2G3A4T5 [label="T" shape=point color=yellow]
+A0T1C2G3A4T5G6 [label="G" shape=point color=green]
+A0T1C2G3A4T5G6C7 [label="C" shape=point color=blue]
+
+A0 -- A0T1 -- A0T1C2 -- A0T1C2G3 -- A0T1C2G3T4 -- A0T1C2G3T4A5 -- A0T1C2G3T4A5C6 -- A0T1C2G3T4A5C6G7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1C2 [label="C" shape=point color=blue]
+A0T1C2G3 [label="G" shape=point color=green]
+A0T1C2G3T4 [label="T" shape=point color=yellow]
+A0T1C2G3T4A5 [label="A" shape=point color=red]
+A0T1C2G3T4A5C6 [label="C" shape=point color=blue]
+A0T1C2G3T4A5C6G7 [label="G" shape=point color=green]
+
+A0 -- A0T1 -- A0T1G2 -- A0T1G2G3 -- A0T1G2G3A4 -- A0T1G2G3A4C5 -- A0T1G2G3A4C5C6 -- A0T1G2G3A4C5C6A7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1G2 [label="G" shape=point color=green]
+A0T1G2G3 [label="G" shape=point color=green]
+A0T1G2G3A4 [label="A" shape=point color=red]
+A0T1G2G3A4C5 [label="C" shape=point color=blue]
+A0T1G2G3A4C5C6 [label="C" shape=point color=blue]
+A0T1G2G3A4C5C6A7 [label="A" shape=point color=red]
+
+A0 -- A0T1 -- A0T1G2 -- A0T1G2G3 -- A0T1G2G3C4 -- A0T1G2G3C4A5 -- A0T1G2G3C4A5A6 -- A0T1G2G3C4A5A6C7
+A0 [label="A" shape=point color=red]
+A0T1 [label="T" shape=point color=yellow]
+A0T1G2 [label="G" shape=point color=green]
+A0T1G2G3 [label="G" shape=point color=green]
+A0T1G2G3C4 [label="C" shape=point color=blue]
+A0T1G2G3C4A5 [label="A" shape=point color=red]
+A0T1G2G3C4A5A6 [label="A" shape=point color=red]
+A0T1G2G3C4A5A6C7 [label="C" shape=point color=blue]
+
+A0 -- A0C1 -- A0C1A2 -- A0C1A2C3 -- A0C1A2C3A4 -- A0C1A2C3A4A5 -- A0C1A2C3A4A5G6 -- A0C1A2C3A4A5G6G7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1A2 [label="A" shape=point color=red]
+A0C1A2C3 [label="C" shape=point color=blue]
+A0C1A2C3A4 [label="A" shape=point color=red]
+A0C1A2C3A4A5 [label="A" shape=point color=red]
+A0C1A2C3A4A5G6 [label="G" shape=point color=green]
+A0C1A2C3A4A5G6G7 [label="G" shape=point color=green]
+
+A0 -- A0C1 -- A0C1A2 -- A0C1A2C3 -- A0C1A2C3T4 -- A0C1A2C3T4T5 -- A0C1A2C3T4T5C6 -- A0C1A2C3T4T5C6C7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1A2 [label="A" shape=point color=red]
+A0C1A2C3 [label="C" shape=point color=blue]
+A0C1A2C3T4 [label="T" shape=point color=yellow]
+A0C1A2C3T4T5 [label="T" shape=point color=yellow]
+A0C1A2C3T4T5C6 [label="C" shape=point color=blue]
+A0C1A2C3T4T5C6C7 [label="C" shape=point color=blue]
+
+A0 -- A0C1 -- A0C1A2 -- A0C1A2G3 -- A0C1A2G3A4 -- A0C1A2G3A4C5 -- A0C1A2G3A4C5A6 -- A0C1A2G3A4C5A6C7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1A2 [label="A" shape=point color=red]
+A0C1A2G3 [label="G" shape=point color=green]
+A0C1A2G3A4 [label="A" shape=point color=red]
+A0C1A2G3A4C5 [label="C" shape=point color=blue]
+A0C1A2G3A4C5A6 [label="A" shape=point color=red]
+A0C1A2G3A4C5A6C7 [label="C" shape=point color=blue]
+
+A0 -- A0C1 -- A0C1A2 -- A0C1A2G3 -- A0C1A2G3T4 -- A0C1A2G3T4G5 -- A0C1A2G3T4G5G6 -- A0C1A2G3T4G5G6A7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1A2 [label="A" shape=point color=red]
+A0C1A2G3 [label="G" shape=point color=green]
+A0C1A2G3T4 [label="T" shape=point color=yellow]
+A0C1A2G3T4G5 [label="G" shape=point color=green]
+A0C1A2G3T4G5G6 [label="G" shape=point color=green]
+A0C1A2G3T4G5G6A7 [label="A" shape=point color=red]
+
+A0 -- A0C1 -- A0C1A2 -- A0C1A2G3 -- A0C1A2G3G4 -- A0C1A2G3G4T5 -- A0C1A2G3G4T5T6 -- A0C1A2G3G4T5T6G7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1A2 [label="A" shape=point color=red]
+A0C1A2G3 [label="G" shape=point color=green]
+A0C1A2G3G4 [label="G" shape=point color=green]
+A0C1A2G3G4T5 [label="T" shape=point color=yellow]
+A0C1A2G3G4T5T6 [label="T" shape=point color=yellow]
+A0C1A2G3G4T5T6G7 [label="G" shape=point color=green]
+
+A0 -- A0C1 -- A0C1T2 -- A0C1T2C3 -- A0C1T2C3T4 -- A0C1T2C3T4C5 -- A0C1T2C3T4C5A6 -- A0C1T2C3T4C5A6G7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1T2 [label="T" shape=point color=yellow]
+A0C1T2C3 [label="C" shape=point color=blue]
+A0C1T2C3T4 [label="T" shape=point color=yellow]
+A0C1T2C3T4C5 [label="C" shape=point color=blue]
+A0C1T2C3T4C5A6 [label="A" shape=point color=red]
+A0C1T2C3T4C5A6G7 [label="G" shape=point color=green]
+
+A0 -- A0C1 -- A0C1T2 -- A0C1T2C3 -- A0C1T2C3C4 -- A0C1T2C3C4A5 -- A0C1T2C3C4A5C6 -- A0C1T2C3C4A5C6A7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1T2 [label="T" shape=point color=yellow]
+A0C1T2C3 [label="C" shape=point color=blue]
+A0C1T2C3C4 [label="C" shape=point color=blue]
+A0C1T2C3C4A5 [label="A" shape=point color=red]
+A0C1T2C3C4A5C6 [label="C" shape=point color=blue]
+A0C1T2C3C4A5C6A7 [label="A" shape=point color=red]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2A3 -- A0C1C2A3A4 -- A0C1C2A3A4T5 -- A0C1C2A3A4T5C6 -- A0C1C2A3A4T5C6G7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2A3 [label="A" shape=point color=red]
+A0C1C2A3A4 [label="A" shape=point color=red]
+A0C1C2A3A4T5 [label="T" shape=point color=yellow]
+A0C1C2A3A4T5C6 [label="C" shape=point color=blue]
+A0C1C2A3A4T5C6G7 [label="G" shape=point color=green]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2A3 -- A0C1C2A3T4 -- A0C1C2A3T4A5 -- A0C1C2A3T4A5G6 -- A0C1C2A3T4A5G6C7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2A3 [label="A" shape=point color=red]
+A0C1C2A3T4 [label="T" shape=point color=yellow]
+A0C1C2A3T4A5 [label="A" shape=point color=red]
+A0C1C2A3T4A5G6 [label="G" shape=point color=green]
+A0C1C2A3T4A5G6C7 [label="C" shape=point color=blue]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2A3 -- A0C1C2A3G4 -- A0C1C2A3G4G5 -- A0C1C2A3G4G5A6 -- A0C1C2A3G4G5A6A7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2A3 [label="A" shape=point color=red]
+A0C1C2A3G4 [label="G" shape=point color=green]
+A0C1C2A3G4G5 [label="G" shape=point color=green]
+A0C1C2A3G4G5A6 [label="A" shape=point color=red]
+A0C1C2A3G4G5A6A7 [label="A" shape=point color=red]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2T3 -- A0C1C2T3A4 -- A0C1C2T3A4C5 -- A0C1C2T3A4C5G6 -- A0C1C2T3A4C5G6A7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2T3 [label="T" shape=point color=yellow]
+A0C1C2T3A4 [label="A" shape=point color=red]
+A0C1C2T3A4C5 [label="C" shape=point color=blue]
+A0C1C2T3A4C5G6 [label="G" shape=point color=green]
+A0C1C2T3A4C5G6A7 [label="A" shape=point color=red]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2T3 -- A0C1C2T3T4 -- A0C1C2T3T4G5 -- A0C1C2T3T4G5T6 -- A0C1C2T3T4G5T6G7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2T3 [label="T" shape=point color=yellow]
+A0C1C2T3T4 [label="T" shape=point color=yellow]
+A0C1C2T3T4G5 [label="G" shape=point color=green]
+A0C1C2T3T4G5T6 [label="T" shape=point color=yellow]
+A0C1C2T3T4G5T6G7 [label="G" shape=point color=green]
+
+A0 -- A0C1 -- A0C1C2 -- A0C1C2T3 -- A0C1C2T3C4 -- A0C1C2T3C4T5 -- A0C1C2T3C4T5A6 -- A0C1C2T3C4T5A6C7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1C2 [label="C" shape=point color=blue]
+A0C1C2T3 [label="T" shape=point color=yellow]
+A0C1C2T3C4 [label="C" shape=point color=blue]
+A0C1C2T3C4T5 [label="T" shape=point color=yellow]
+A0C1C2T3C4T5A6 [label="A" shape=point color=red]
+A0C1C2T3C4T5A6C7 [label="C" shape=point color=blue]
+
+A0 -- A0C1 -- A0C1G2 -- A0C1G2A3 -- A0C1G2A3A4 -- A0C1G2A3A4G5 -- A0C1G2A3A4G5T6 -- A0C1G2A3A4G5T6C7
+A0 [label="A" shape=point color=red]
+A0C1 [label="C" shape=point color=blue]
+A0C1G2 [label="G" shape=point color=green]
+A0C1G2A3 [label="A" shape=point color=red]
+A0C1G2A3A4 [label="A" shape=point color=red]
+A0C1G2A3A4G5 [label="G" shape=point color=green]
+A0C1G2A3A4G5T6 [label="T" shape=point color=yellow]
+A0C1G2A3A4G5T6C7 [label="C" shape=point color=blue]
+
+A0 -- A0G1 -- A0G1A2 -- A0G1A2C3 -- A0G1A2C3C4 -- A0G1A2C3C4T5 -- A0G1A2C3C4T5A6 -- A0G1A2C3C4T5A6G7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1A2 [label="A" shape=point color=red]
+A0G1A2C3 [label="C" shape=point color=blue]
+A0G1A2C3C4 [label="C" shape=point color=blue]
+A0G1A2C3C4T5 [label="T" shape=point color=yellow]
+A0G1A2C3C4T5A6 [label="A" shape=point color=red]
+A0G1A2C3C4T5A6G7 [label="G" shape=point color=green]
+
+A0 -- A0G1 -- A0G1A2 -- A0G1A2C3 -- A0G1A2C3G4 -- A0G1A2C3G4A5 -- A0G1A2C3G4A5T6 -- A0G1A2C3G4A5T6C7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1A2 [label="A" shape=point color=red]
+A0G1A2C3 [label="C" shape=point color=blue]
+A0G1A2C3G4 [label="G" shape=point color=green]
+A0G1A2C3G4A5 [label="A" shape=point color=red]
+A0G1A2C3G4A5T6 [label="T" shape=point color=yellow]
+A0G1A2C3G4A5T6C7 [label="C" shape=point color=blue]
+
+A0 -- A0G1 -- A0G1A2 -- A0G1A2G3 -- A0G1A2G3C4 -- A0G1A2G3C4C5 -- A0G1A2G3C4C5T6 -- A0G1A2G3C4C5T6A7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1A2 [label="A" shape=point color=red]
+A0G1A2G3 [label="G" shape=point color=green]
+A0G1A2G3C4 [label="C" shape=point color=blue]
+A0G1A2G3C4C5 [label="C" shape=point color=blue]
+A0G1A2G3C4C5T6 [label="T" shape=point color=yellow]
+A0G1A2G3C4C5T6A7 [label="A" shape=point color=red]
+
+A0 -- A0G1 -- A0G1T2 -- A0G1T2C3 -- A0G1T2C3A4 -- A0G1T2C3A4G5 -- A0G1T2C3A4G5C6 -- A0G1T2C3A4G5C6T7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1T2 [label="T" shape=point color=yellow]
+A0G1T2C3 [label="C" shape=point color=blue]
+A0G1T2C3A4 [label="A" shape=point color=red]
+A0G1T2C3A4G5 [label="G" shape=point color=green]
+A0G1T2C3A4G5C6 [label="C" shape=point color=blue]
+A0G1T2C3A4G5C6T7 [label="T" shape=point color=yellow]
+
+A0 -- A0G1 -- A0G1C2 -- A0G1C2A3 -- A0G1C2A3T4 -- A0G1C2A3T4C5 -- A0G1C2A3T4C5C6 -- A0G1C2A3T4C5C6A7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1C2 [label="C" shape=point color=blue]
+A0G1C2A3 [label="A" shape=point color=red]
+A0G1C2A3T4 [label="T" shape=point color=yellow]
+A0G1C2A3T4C5 [label="C" shape=point color=blue]
+A0G1C2A3T4C5C6 [label="C" shape=point color=blue]
+A0G1C2A3T4C5C6A7 [label="A" shape=point color=red]
+
+A0 -- A0G1 -- A0G1G2 -- A0G1G2A3 -- A0G1G2A3A4 -- A0G1G2A3A4C5 -- A0G1G2A3A4C5A6 -- A0G1G2A3A4C5A6G7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1G2 [label="G" shape=point color=green]
+A0G1G2A3 [label="A" shape=point color=red]
+A0G1G2A3A4 [label="A" shape=point color=red]
+A0G1G2A3A4C5 [label="C" shape=point color=blue]
+A0G1G2A3A4C5A6 [label="A" shape=point color=red]
+A0G1G2A3A4C5A6G7 [label="G" shape=point color=green]
+
+A0 -- A0G1 -- A0G1G2 -- A0G1G2A3 -- A0G1G2A3C4 -- A0G1G2A3C4A5 -- A0G1G2A3C4A5G6 -- A0G1G2A3C4A5G6A7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1G2 [label="G" shape=point color=green]
+A0G1G2A3 [label="A" shape=point color=red]
+A0G1G2A3C4 [label="C" shape=point color=blue]
+A0G1G2A3C4A5 [label="A" shape=point color=red]
+A0G1G2A3C4A5G6 [label="G" shape=point color=green]
+A0G1G2A3C4A5G6A7 [label="A" shape=point color=red]
+
+A0 -- A0G1 -- A0G1G2 -- A0G1G2T3 -- A0G1G2T3A4 -- A0G1G2T3A4T5 -- A0G1G2T3A4T5C6 -- A0G1G2T3A4T5C6C7
+A0 [label="A" shape=point color=red]
+A0G1 [label="G" shape=point color=green]
+A0G1G2 [label="G" shape=point color=green]
+A0G1G2T3 [label="T" shape=point color=yellow]
+A0G1G2T3A4 [label="A" shape=point color=red]
+A0G1G2T3A4T5 [label="T" shape=point color=yellow]
+A0G1G2T3A4T5C6 [label="C" shape=point color=blue]
+A0G1G2T3A4T5C6C7 [label="C" shape=point color=blue]
+
+T0 -- T0A1 -- T0A1A2 -- T0A1A2T3 -- T0A1A2T3C4 -- T0A1A2T3C4G5 -- T0A1A2T3C4G5G6 -- T0A1A2T3C4G5G6C7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1A2 [label="A" shape=point color=red]
+T0A1A2T3 [label="T" shape=point color=yellow]
+T0A1A2T3C4 [label="C" shape=point color=blue]
+T0A1A2T3C4G5 [label="G" shape=point color=green]
+T0A1A2T3C4G5G6 [label="G" shape=point color=green]
+T0A1A2T3C4G5G6C7 [label="C" shape=point color=blue]
+
+T0 -- T0A1 -- T0A1A2 -- T0A1A2T3 -- T0A1A2T3G4 -- T0A1A2T3G4C5 -- T0A1A2T3G4C5C6 -- T0A1A2T3G4C5C6G7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1A2 [label="A" shape=point color=red]
+T0A1A2T3 [label="T" shape=point color=yellow]
+T0A1A2T3G4 [label="G" shape=point color=green]
+T0A1A2T3G4C5 [label="C" shape=point color=blue]
+T0A1A2T3G4C5C6 [label="C" shape=point color=blue]
+T0A1A2T3G4C5C6G7 [label="G" shape=point color=green]
+
+T0 -- T0A1 -- T0A1T2 -- T0A1T2A3 -- T0A1T2A3C4 -- T0A1T2A3C4G5 -- T0A1T2A3C4G5C6 -- T0A1T2A3C4G5C6G7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1T2 [label="T" shape=point color=yellow]
+T0A1T2A3 [label="A" shape=point color=red]
+T0A1T2A3C4 [label="C" shape=point color=blue]
+T0A1T2A3C4G5 [label="G" shape=point color=green]
+T0A1T2A3C4G5C6 [label="C" shape=point color=blue]
+T0A1T2A3C4G5C6G7 [label="G" shape=point color=green]
+
+T0 -- T0A1 -- T0A1T2 -- T0A1T2A3 -- T0A1T2A3G4 -- T0A1T2A3G4C5 -- T0A1T2A3G4C5G6 -- T0A1T2A3G4C5G6C7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1T2 [label="T" shape=point color=yellow]
+T0A1T2A3 [label="A" shape=point color=red]
+T0A1T2A3G4 [label="G" shape=point color=green]
+T0A1T2A3G4C5 [label="C" shape=point color=blue]
+T0A1T2A3G4C5G6 [label="G" shape=point color=green]
+T0A1T2A3G4C5G6C7 [label="C" shape=point color=blue]
+
+T0 -- T0A1 -- T0A1C2 -- T0A1C2C3 -- T0A1C2C3C4 -- T0A1C2C3C4T5 -- T0A1C2C3C4T5T6 -- T0A1C2C3C4T5T6C7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1C2 [label="C" shape=point color=blue]
+T0A1C2C3 [label="C" shape=point color=blue]
+T0A1C2C3C4 [label="C" shape=point color=blue]
+T0A1C2C3C4T5 [label="T" shape=point color=yellow]
+T0A1C2C3C4T5T6 [label="T" shape=point color=yellow]
+T0A1C2C3C4T5T6C7 [label="C" shape=point color=blue]
+
+T0 -- T0A1 -- T0A1C2 -- T0A1C2C3 -- T0A1C2C3G4 -- T0A1C2C3G4A5 -- T0A1C2C3G4A5A6 -- T0A1C2C3G4A5A6G7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1C2 [label="C" shape=point color=blue]
+T0A1C2C3 [label="C" shape=point color=blue]
+T0A1C2C3G4 [label="G" shape=point color=green]
+T0A1C2C3G4A5 [label="A" shape=point color=red]
+T0A1C2C3G4A5A6 [label="A" shape=point color=red]
+T0A1C2C3G4A5A6G7 [label="G" shape=point color=green]
+
+T0 -- T0A1 -- T0A1G2 -- T0A1G2C3 -- T0A1G2C3T4 -- T0A1G2C3T4A5 -- T0A1G2C3T4A5G6 -- T0A1G2C3T4A5G6C7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1G2 [label="G" shape=point color=green]
+T0A1G2C3 [label="C" shape=point color=blue]
+T0A1G2C3T4 [label="T" shape=point color=yellow]
+T0A1G2C3T4A5 [label="A" shape=point color=red]
+T0A1G2C3T4A5G6 [label="G" shape=point color=green]
+T0A1G2C3T4A5G6C7 [label="C" shape=point color=blue]
+
+T0 -- T0A1 -- T0A1G2 -- T0A1G2G3 -- T0A1G2G3A4 -- T0A1G2G3A4G5 -- T0A1G2G3A4G5A6 -- T0A1G2G3A4G5A6G7
+T0 [label="T" shape=point color=yellow]
+T0A1 [label="A" shape=point color=red]
+T0A1G2 [label="G" shape=point color=green]
+T0A1G2G3 [label="G" shape=point color=green]
+T0A1G2G3A4 [label="A" shape=point color=red]
+T0A1G2G3A4G5 [label="G" shape=point color=green]
+T0A1G2G3A4G5A6 [label="A" shape=point color=red]
+T0A1G2G3A4G5A6G7 [label="G" shape=point color=green]
+
+T0 -- T0T1 -- T0T1A2 -- T0T1A2A3 -- T0T1A2A3C4 -- T0T1A2A3C4C5 -- T0T1A2A3C4C5G6 -- T0T1A2A3C4C5G6G7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1A2 [label="A" shape=point color=red]
+T0T1A2A3 [label="A" shape=point color=red]
+T0T1A2A3C4 [label="C" shape=point color=blue]
+T0T1A2A3C4C5 [label="C" shape=point color=blue]
+T0T1A2A3C4C5G6 [label="G" shape=point color=green]
+T0T1A2A3C4C5G6G7 [label="G" shape=point color=green]
+
+T0 -- T0T1 -- T0T1A2 -- T0T1A2A3 -- T0T1A2A3G4 -- T0T1A2A3G4G5 -- T0T1A2A3G4G5C6 -- T0T1A2A3G4G5C6C7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1A2 [label="A" shape=point color=red]
+T0T1A2A3 [label="A" shape=point color=red]
+T0T1A2A3G4 [label="G" shape=point color=green]
+T0T1A2A3G4G5 [label="G" shape=point color=green]
+T0T1A2A3G4G5C6 [label="C" shape=point color=blue]
+T0T1A2A3G4G5C6C7 [label="C" shape=point color=blue]
+
+T0 -- T0T1 -- T0T1T2 -- T0T1T2T3 -- T0T1T2T3C4 -- T0T1T2T3C4C5 -- T0T1T2T3C4C5C6 -- T0T1T2T3C4C5C6C7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1T2 [label="T" shape=point color=yellow]
+T0T1T2T3 [label="T" shape=point color=yellow]
+T0T1T2T3C4 [label="C" shape=point color=blue]
+T0T1T2T3C4C5 [label="C" shape=point color=blue]
+T0T1T2T3C4C5C6 [label="C" shape=point color=blue]
+T0T1T2T3C4C5C6C7 [label="C" shape=point color=blue]
+
+T0 -- T0T1 -- T0T1T2 -- T0T1T2T3 -- T0T1T2T3G4 -- T0T1T2T3G4G5 -- T0T1T2T3G4G5G6 -- T0T1T2T3G4G5G6G7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1T2 [label="T" shape=point color=yellow]
+T0T1T2T3 [label="T" shape=point color=yellow]
+T0T1T2T3G4 [label="G" shape=point color=green]
+T0T1T2T3G4G5 [label="G" shape=point color=green]
+T0T1T2T3G4G5G6 [label="G" shape=point color=green]
+T0T1T2T3G4G5G6G7 [label="G" shape=point color=green]
+
+T0 -- T0T1 -- T0T1C2 -- T0T1C2G3 -- T0T1C2G3C4 -- T0T1C2G3C4T5 -- T0T1C2G3C4T5A6 -- T0T1C2G3C4T5A6G7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1C2 [label="C" shape=point color=blue]
+T0T1C2G3 [label="G" shape=point color=green]
+T0T1C2G3C4 [label="C" shape=point color=blue]
+T0T1C2G3C4T5 [label="T" shape=point color=yellow]
+T0T1C2G3C4T5A6 [label="A" shape=point color=red]
+T0T1C2G3C4T5A6G7 [label="G" shape=point color=green]
+
+T0 -- T0T1 -- T0T1G2 -- T0T1G2C3 -- T0T1G2C3A4 -- T0T1G2C3A4A5 -- T0T1G2C3A4A5C6 -- T0T1G2C3A4A5C6G7
+T0 [label="T" shape=point color=yellow]
+T0T1 [label="T" shape=point color=yellow]
+T0T1G2 [label="G" shape=point color=green]
+T0T1G2C3 [label="C" shape=point color=blue]
+T0T1G2C3A4 [label="A" shape=point color=red]
+T0T1G2C3A4A5 [label="A" shape=point color=red]
+T0T1G2C3A4A5C6 [label="C" shape=point color=blue]
+T0T1G2C3A4A5C6G7 [label="G" shape=point color=green]
+
+T0 -- T0C1 -- T0C1A2 -- T0C1A2C3 -- T0C1A2C3A4 -- T0C1A2C3A4C5 -- T0C1A2C3A4C5C6 -- T0C1A2C3A4C5C6A7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1A2 [label="A" shape=point color=red]
+T0C1A2C3 [label="C" shape=point color=blue]
+T0C1A2C3A4 [label="A" shape=point color=red]
+T0C1A2C3A4C5 [label="C" shape=point color=blue]
+T0C1A2C3A4C5C6 [label="C" shape=point color=blue]
+T0C1A2C3A4C5C6A7 [label="A" shape=point color=red]
+
+T0 -- T0C1 -- T0C1A2 -- T0C1A2C3 -- T0C1A2C3C4 -- T0C1A2C3C4A5 -- T0C1A2C3C4A5A6 -- T0C1A2C3C4A5A6C7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1A2 [label="A" shape=point color=red]
+T0C1A2C3 [label="C" shape=point color=blue]
+T0C1A2C3C4 [label="C" shape=point color=blue]
+T0C1A2C3C4A5 [label="A" shape=point color=red]
+T0C1A2C3C4A5A6 [label="A" shape=point color=red]
+T0C1A2C3C4A5A6C7 [label="C" shape=point color=blue]
+
+T0 -- T0C1 -- T0C1T2 -- T0C1T2C3 -- T0C1T2C3A4 -- T0C1T2C3A4T5 -- T0C1T2C3A4T5G6 -- T0C1T2C3A4T5G6C7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1T2 [label="T" shape=point color=yellow]
+T0C1T2C3 [label="C" shape=point color=blue]
+T0C1T2C3A4 [label="A" shape=point color=red]
+T0C1T2C3A4T5 [label="T" shape=point color=yellow]
+T0C1T2C3A4T5G6 [label="G" shape=point color=green]
+T0C1T2C3A4T5G6C7 [label="C" shape=point color=blue]
+
+T0 -- T0C1 -- T0C1C2 -- T0C1C2T3 -- T0C1C2T3G4 -- T0C1C2T3G4A5 -- T0C1C2T3G4A5T6 -- T0C1C2T3G4A5T6C7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1C2 [label="C" shape=point color=blue]
+T0C1C2T3 [label="T" shape=point color=yellow]
+T0C1C2T3G4 [label="G" shape=point color=green]
+T0C1C2T3G4A5 [label="A" shape=point color=red]
+T0C1C2T3G4A5T6 [label="T" shape=point color=yellow]
+T0C1C2T3G4A5T6C7 [label="C" shape=point color=blue]
+
+T0 -- T0C1 -- T0C1G2 -- T0C1G2A3 -- T0C1G2A3T4 -- T0C1G2A3T4C5 -- T0C1G2A3T4C5A6 -- T0C1G2A3T4C5A6C7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1G2 [label="G" shape=point color=green]
+T0C1G2A3 [label="A" shape=point color=red]
+T0C1G2A3T4 [label="T" shape=point color=yellow]
+T0C1G2A3T4C5 [label="C" shape=point color=blue]
+T0C1G2A3T4C5A6 [label="A" shape=point color=red]
+T0C1G2A3T4C5A6C7 [label="C" shape=point color=blue]
+
+T0 -- T0C1 -- T0C1G2 -- T0C1G2A3 -- T0C1G2A3G4 -- T0C1G2A3G4A5 -- T0C1G2A3G4A5C6 -- T0C1G2A3G4A5C6A7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1G2 [label="G" shape=point color=green]
+T0C1G2A3 [label="A" shape=point color=red]
+T0C1G2A3G4 [label="G" shape=point color=green]
+T0C1G2A3G4A5 [label="A" shape=point color=red]
+T0C1G2A3G4A5C6 [label="C" shape=point color=blue]
+T0C1G2A3G4A5C6A7 [label="A" shape=point color=red]
+
+T0 -- T0C1 -- T0C1G2 -- T0C1G2T3 -- T0C1G2T3T4 -- T0C1G2T3T4T5 -- T0C1G2T3T4T5C6 -- T0C1G2T3T4T5C6G7
+T0 [label="T" shape=point color=yellow]
+T0C1 [label="C" shape=point color=blue]
+T0C1G2 [label="G" shape=point color=green]
+T0C1G2T3 [label="T" shape=point color=yellow]
+T0C1G2T3T4 [label="T" shape=point color=yellow]
+T0C1G2T3T4T5 [label="T" shape=point color=yellow]
+T0C1G2T3T4T5C6 [label="C" shape=point color=blue]
+T0C1G2T3T4T5C6G7 [label="G" shape=point color=green]
+
+T0 -- T0G1 -- T0G1A2 -- T0G1A2G3 -- T0G1A2G3A4 -- T0G1A2G3A4A5 -- T0G1A2G3A4A5C6 -- T0G1A2G3A4A5C6C7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1A2 [label="A" shape=point color=red]
+T0G1A2G3 [label="G" shape=point color=green]
+T0G1A2G3A4 [label="A" shape=point color=red]
+T0G1A2G3A4A5 [label="A" shape=point color=red]
+T0G1A2G3A4A5C6 [label="C" shape=point color=blue]
+T0G1A2G3A4A5C6C7 [label="C" shape=point color=blue]
+
+T0 -- T0G1 -- T0G1A2 -- T0G1A2G3 -- T0G1A2G3T4 -- T0G1A2G3T4T5 -- T0G1A2G3T4T5G6 -- T0G1A2G3T4T5G6G7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1A2 [label="A" shape=point color=red]
+T0G1A2G3 [label="G" shape=point color=green]
+T0G1A2G3T4 [label="T" shape=point color=yellow]
+T0G1A2G3T4T5 [label="T" shape=point color=yellow]
+T0G1A2G3T4T5G6 [label="G" shape=point color=green]
+T0G1A2G3T4T5G6G7 [label="G" shape=point color=green]
+
+T0 -- T0G1 -- T0G1T2 -- T0G1T2C3 -- T0G1T2C3G4 -- T0G1T2C3G4T5 -- T0G1T2C3G4T5T6 -- T0G1T2C3G4T5T6G7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1T2 [label="T" shape=point color=yellow]
+T0G1T2C3 [label="C" shape=point color=blue]
+T0G1T2C3G4 [label="G" shape=point color=green]
+T0G1T2C3G4T5 [label="T" shape=point color=yellow]
+T0G1T2C3G4T5T6 [label="T" shape=point color=yellow]
+T0G1T2C3G4T5T6G7 [label="G" shape=point color=green]
+
+T0 -- T0G1 -- T0G1T2 -- T0G1T2G3 -- T0G1T2G3T4 -- T0G1T2G3T4G5 -- T0G1T2G3T4G5T6 -- T0G1T2G3T4G5T6C7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1T2 [label="T" shape=point color=yellow]
+T0G1T2G3 [label="G" shape=point color=green]
+T0G1T2G3T4 [label="T" shape=point color=yellow]
+T0G1T2G3T4G5 [label="G" shape=point color=green]
+T0G1T2G3T4G5T6 [label="T" shape=point color=yellow]
+T0G1T2G3T4G5T6C7 [label="C" shape=point color=blue]
+
+T0 -- T0G1 -- T0G1C2 -- T0G1C2A3 -- T0G1C2A3A4 -- T0G1C2A3A4A5 -- T0G1C2A3A4A5G6 -- T0G1C2A3A4A5G6G7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1C2 [label="C" shape=point color=blue]
+T0G1C2A3 [label="A" shape=point color=red]
+T0G1C2A3A4 [label="A" shape=point color=red]
+T0G1C2A3A4A5 [label="A" shape=point color=red]
+T0G1C2A3A4A5G6 [label="G" shape=point color=green]
+T0G1C2A3A4A5G6G7 [label="G" shape=point color=green]
+
+T0 -- T0G1 -- T0G1C2 -- T0G1C2T3 -- T0G1C2T3A4 -- T0G1C2T3A4G5 -- T0G1C2T3A4G5A6 -- T0G1C2T3A4G5A6C7
+T0 [label="T" shape=point color=yellow]
+T0G1 [label="G" shape=point color=green]
+T0G1C2 [label="C" shape=point color=blue]
+T0G1C2T3 [label="T" shape=point color=yellow]
+T0G1C2T3A4 [label="A" shape=point color=red]
+T0G1C2T3A4G5 [label="G" shape=point color=green]
+T0G1C2T3A4G5A6 [label="A" shape=point color=red]
+T0G1C2T3A4G5A6C7 [label="C" shape=point color=blue]
+
+C0 -- C0A1 -- C0A1A2 -- C0A1A2C3 -- C0A1A2C3A4 -- C0A1A2C3A4C5 -- C0A1A2C3A4C5A6 -- C0A1A2C3A4C5A6G7
+C0 [label="C" shape=point color=blue]
+C0A1 [label="A" shape=point color=red]
+C0A1A2 [label="A" shape=point color=red]
+C0A1A2C3 [label="C" shape=point color=blue]
+C0A1A2C3A4 [label="A" shape=point color=red]
+C0A1A2C3A4C5 [label="C" shape=point color=blue]
+C0A1A2C3A4C5A6 [label="A" shape=point color=red]
+C0A1A2C3A4C5A6G7 [label="G" shape=point color=green]
+
+C0 -- C0A1 -- C0A1A2 -- C0A1A2C3 -- C0A1A2C3T4 -- C0A1A2C3T4G5 -- C0A1A2C3T4G5T6 -- C0A1A2C3T4G5T6C7
+C0 [label="C" shape=point color=blue]
+C0A1 [label="A" shape=point color=red]
+C0A1A2 [label="A" shape=point color=red]
+C0A1A2C3 [label="C" shape=point color=blue]
+C0A1A2C3T4 [label="T" shape=point color=yellow]
+C0A1A2C3T4G5 [label="G" shape=point color=green]
+C0A1A2C3T4G5T6 [label="T" shape=point color=yellow]
+C0A1A2C3T4G5T6C7 [label="C" shape=point color=blue]
+
+C0 -- C0A1 -- C0A1T2 -- C0A1T2G3 -- C0A1T2G3A4 -- C0A1T2G3A4A5 -- C0A1T2G3A4A5C6 -- C0A1T2G3A4A5C6G7
+C0 [label="C" shape=point color=blue]
+C0A1 [label="A" shape=point color=red]
+C0A1T2 [label="T" shape=point color=yellow]
+C0A1T2G3 [label="G" shape=point color=green]
+C0A1T2G3A4 [label="A" shape=point color=red]
+C0A1T2G3A4A5 [label="A" shape=point color=red]
+C0A1T2G3A4A5C6 [label="C" shape=point color=blue]
+C0A1T2G3A4A5C6G7 [label="G" shape=point color=green]
+
+C0 -- C0A1 -- C0A1T2 -- C0A1T2G3 -- C0A1T2G3T4 -- C0A1T2G3T4T5 -- C0A1T2G3T4T5G6 -- C0A1T2G3T4T5G6C7
+C0 [label="C" shape=point color=blue]
+C0A1 [label="A" shape=point color=red]
+C0A1T2 [label="T" shape=point color=yellow]
+C0A1T2G3 [label="G" shape=point color=green]
+C0A1T2G3T4 [label="T" shape=point color=yellow]
+C0A1T2G3T4T5 [label="T" shape=point color=yellow]
+C0A1T2G3T4T5G6 [label="G" shape=point color=green]
+C0A1T2G3T4T5G6C7 [label="C" shape=point color=blue]
+
+C0 -- C0A1 -- C0A1G2 -- C0A1G2A3 -- C0A1G2A3C4 -- C0A1G2A3C4T5 -- C0A1G2A3C4T5A6 -- C0A1G2A3C4T5A6G7
+C0 [label="C" shape=point color=blue]
+C0A1 [label="A" shape=point color=red]
+C0A1G2 [label="G" shape=point color=green]
+C0A1G2A3 [label="A" shape=point color=red]
+C0A1G2A3C4 [label="C" shape=point color=blue]
+C0A1G2A3C4T5 [label="T" shape=point color=yellow]
+C0A1G2A3C4T5A6 [label="A" shape=point color=red]
+C0A1G2A3C4T5A6G7 [label="G" shape=point color=green]
+
+C0 -- C0T1 -- C0T1T2 -- C0T1T2C3 -- C0T1T2C3T4 -- C0T1T2C3T4A5 -- C0T1T2C3T4A5C6 -- C0T1T2C3T4A5C6C7
+C0 [label="C" shape=point color=blue]
+C0T1 [label="T" shape=point color=yellow]
+C0T1T2 [label="T" shape=point color=yellow]
+C0T1T2C3 [label="C" shape=point color=blue]
+C0T1T2C3T4 [label="T" shape=point color=yellow]
+C0T1T2C3T4A5 [label="A" shape=point color=red]
+C0T1T2C3T4A5C6 [label="C" shape=point color=blue]
+C0T1T2C3T4A5C6C7 [label="C" shape=point color=blue]
+
+C0 -- C0T1 -- C0T1C2 -- C0T1C2A3 -- C0T1C2A3A4 -- C0T1C2A3A4C5 -- C0T1C2A3A4C5A6 -- C0T1C2A3A4C5A6C7
+C0 [label="C" shape=point color=blue]
+C0T1 [label="T" shape=point color=yellow]
+C0T1C2 [label="C" shape=point color=blue]
+C0T1C2A3 [label="A" shape=point color=red]
+C0T1C2A3A4 [label="A" shape=point color=red]
+C0T1C2A3A4C5 [label="C" shape=point color=blue]
+C0T1C2A3A4C5A6 [label="A" shape=point color=red]
+C0T1C2A3A4C5A6C7 [label="C" shape=point color=blue]
+
+C0 -- C0C1 -- C0C1T2 -- C0C1T2T3 -- C0C1T2T3A4 -- C0C1T2T3A4C5 -- C0C1T2T3A4C5T6 -- C0C1T2T3A4C5T6C7
+C0 [label="C" shape=point color=blue]
+C0C1 [label="C" shape=point color=blue]
+C0C1T2 [label="T" shape=point color=yellow]
+C0C1T2T3 [label="T" shape=point color=yellow]
+C0C1T2T3A4 [label="A" shape=point color=red]
+C0C1T2T3A4C5 [label="C" shape=point color=blue]
+C0C1T2T3A4C5T6 [label="T" shape=point color=yellow]
+C0C1T2T3A4C5T6C7 [label="C" shape=point color=blue]
+
+G0 -- G0A1 -- G0A1G2 -- G0A1G2A3 -- G0A1G2A3T4 -- G0A1G2A3T4T5 -- G0A1G2A3T4T5C6 -- G0A1G2A3T4T5C6C7
+G0 [label="G" shape=point color=green]
+G0A1 [label="A" shape=point color=red]
+G0A1G2 [label="G" shape=point color=green]
+G0A1G2A3 [label="A" shape=point color=red]
+G0A1G2A3T4 [label="T" shape=point color=yellow]
+G0A1G2A3T4T5 [label="T" shape=point color=yellow]
+G0A1G2A3T4T5C6 [label="C" shape=point color=blue]
+G0A1G2A3T4T5C6C7 [label="C" shape=point color=blue]
+
+G0 -- G0C1 -- G0C1T2 -- G0C1T2A3 -- G0C1T2A3A4 -- G0C1T2A3A4A5 -- G0C1T2A3A4A5C6 -- G0C1T2A3A4A5C6C7
+G0 [label="G" shape=point color=green]
+G0C1 [label="C" shape=point color=blue]
+G0C1T2 [label="T" shape=point color=yellow]
+G0C1T2A3 [label="A" shape=point color=red]
+G0C1T2A3A4 [label="A" shape=point color=red]
+G0C1T2A3A4A5 [label="A" shape=point color=red]
+G0C1T2A3A4A5C6 [label="C" shape=point color=blue]
+G0C1T2A3A4A5C6C7 [label="C" shape=point color=blue]
+
+406.0 seconds

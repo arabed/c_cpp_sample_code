@@ -1,0 +1,14 @@
+inc(a)
+inc(a)
+inc(c)
+inc(c)
+inc(c)
+whilene(a,b)
+inc(b)
+whilene(c,d)
+inc(d)
+endwhile
+endwhile
+inc(e)
+copy(f,e)
+end
